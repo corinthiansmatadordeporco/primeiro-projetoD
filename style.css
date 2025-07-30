@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 85, 206); 
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color:rgb(101, 67, 133);
+    text-align: center;
+    font-size: 30px;
+
+}
